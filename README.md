@@ -1,2 +1,2 @@
 # mhw-adapting-baseline-projections
-Code for paper titled: "Future projections of marine heatwave adapting baselines for Acropora corals"
+Scripts for our analyses are in the main folder. Model data are available from Figshare at https://doi.org/10.6084/m9.figshare.33472195. 
