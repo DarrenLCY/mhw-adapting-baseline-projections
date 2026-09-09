@@ -1,2 +1,2 @@
 # mhw-adapting-baseline-projections
-Scripts for our analyses are in the main folder. Model data are available from Figshare at https://doi.org/10.6084/m9.figshare.33472195. 
+Scripts for our analyses are in the main folder. Model data are available from Figshare at https://doi.org/10.6084/m9.figshare.33472195. The "Lachs et al. 2024" folder contains modified scripts from Lachs et al. (2024) (https://doi.org/10.25405/data.ncl.27089278) that we used to derive the relationship between cumulative intensity (instead of the original DHW) and coral fitness.
