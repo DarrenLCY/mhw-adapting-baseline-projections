@@ -1,15 +1,6 @@
 #
-# Liam Lachs, Newcastle University, 12/2023 
-#
-# Analysis of outputs from ReefMod-PALAU_v1.1 to investigate whether thermally sensitive
-# corymbose Acropora populations in Palau will be able to adapt fast enough to keep pace 
-# with ocean warming. This study explores different parameterisations of inheritance of
-# coral heat tolerance (from h2=0 to h2=1) and different future scenarios of selective 
-# pressure from 16 global climate models (with a range of climate sensitivities) and 
-# across 3 different future emissions scenarios (shared socioeconomic pathways): 
-# SSP1-2.6: Paris Agreement scenario with global warming limited to 2C
-# SSP2-4.5: Miodle-of-the-road scenario
-# SSP5-8.5: Worst-case scenario
+# Modified R script from https://doi.org/10.25405/data.ncl.27089278
+# to derive the relationship between MHW cumulative intensity (instead of the original DHW) and coral fitness.
 
 rm(list = ls())
 
